@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/kongguksu/order-summary-component.git]
+- Live Site URL: [https://kongguksu.github.io/order-summary-component/]
 
 ## My process
 
@@ -85,4 +85,4 @@ I used absolute positioning to center the order summary card in the viewport ver
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@kongguksu](https://www.frontendmentor.io/profile/kongguksu)
