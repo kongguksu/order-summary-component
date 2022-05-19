@@ -157,6 +157,8 @@ body {
   font-size: 0.8rem;
   font-weight: 700;
   color: hsl(245, 75%, 52%);
+  
+  transition: all 0.3s;
 }
 
 .plan--change:hover,
@@ -185,6 +187,8 @@ body {
   background-color: hsl(245, 75%, 52%);
   color: #fff;
   box-shadow: 0 0.7rem 1.2rem rgba(56, 41, 224, 0.3);
+  
+  transition: all 0.3s;
 }
 
 .btn-cta:hover,
@@ -199,6 +203,8 @@ body {
 
   background: none;
   color: hsl(224, 23%, 55%);
+  
+  transition: all 0.3s;
 }
 
 .btn-cancel:hover,
